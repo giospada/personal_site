@@ -1,0 +1,11 @@
+
+navbar_title = 'Gio Site'
+author = "giospada"
+
+enable_zooming_js = true
+enable_toc = true
+enable_site_search = true
+enable_math = false
+
+enable_collapsible_toc = false
+enable_collapsible_changelogs = true
